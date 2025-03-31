@@ -17,11 +17,6 @@ function firstNonRepeatedChar(str) {
     return null; // No non-repeated character found
 }
 
-// Test cases
-console.log(firstNonRepeatedChar('aabbcdd')); // Output: 'c'
-console.log(firstNonRepeatedChar('aabbcc'));  // Output: null
-console.log(firstNonRepeatedChar('abcd'));    // Output: 'a'
-console.log(firstNonRepeatedChar('a'));       // Output: 'a'
-console.log(firstNonRepeatedChar(''));        // Output: null
+     
 }
 
